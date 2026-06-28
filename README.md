@@ -340,7 +340,7 @@ In healthcare AI specifically, the ability to explain a model's decision is not 
 
 ## Author
 
-**Devi**
+** J Devi**
 
 Final Year B.Tech – Computer Science & Engineering (Artificial Intelligence & Data Science)
 
