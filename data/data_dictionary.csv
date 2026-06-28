@@ -1,0 +1,10 @@
+Column Name,Description
+age,Age of the patient in years
+gender,Gender of the patient (Male/Female)
+hemoglobin_g_dl,Hemoglobin level in grams per deciliter (g/dL)
+wbc_count,White blood cell count (cells per microliter)
+differential_count,Differential white blood cell count
+rbc_count,Red blood cell count (millions per microliter)
+platelet_count,Platelet count (cells per microliter)
+platelet_distribution_width,Variation in platelet size (PDW)
+dengue_label,"Target variable (0 = No Dengue, 1 = Dengue)"
